@@ -1,5 +1,5 @@
 {
-  "name": "@dagsec/quasar-app-extension-tailwindcss",
+  "name": "quasar-app-extension-twcss",
   "version": "0.1.6",
   "description": "Integration of TailwindCSS into Quasar Framework",
   "author": "KINGER404 <oimasterok@gmail.com>",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matzeso/quasar-app-extension-tailwindcss"
+    "url": "https://github.com/KINGER404/quasar-app-extension-tailwindcss"
   },
   "keywords": [
     "quasar",
