@@ -7,7 +7,7 @@ _This extension makes it easy to integrate TailwindCSS (https://tailwindcss.com/
 
 # Install
 ```bash
-quasar ext add tailwindcss
+quasar ext add twcss
 ```
 Quasar CLI will retrieve it from NPM and install the extension.
 
@@ -18,7 +18,7 @@ Quasar CLI will retrieve it from NPM and install the extension.
 
 # Uninstall
 ```bash
-quasar ext remove tailwindcss
+quasar ext remove twcss
 ```
 Removes the extension, optionally also the folder `/src/extensions/tailwindcss` to fully delete all files that were created with this plugin.
 
