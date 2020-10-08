@@ -30,10 +30,3 @@ Removes the extension, optionally also the folder `/src/extensions/tailwindcss` 
 > the `src/extensions/tailwindcss/` folder after installation. 
 > See https://tailwindcss.com/docs/installation/#2-add-tailwind-to-your-css and 
 > https://tailwindcss.com/docs/configuration/
-
-# Todos
-
-> As a next todo, I want to link the config creation to the internal quasar variables, 
-> thereby removing the necessity to keep two configs up to date
-
-There are still lots of things left to do. Feel free to post feature requests.
