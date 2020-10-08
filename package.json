@@ -1,6 +1,6 @@
 {
   "name": "quasar-app-extension-twcss",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Integration of TailwindCSS into Quasar Framework",
   "author": "KINGER404 <oimasterok@gmail.com>",
   "license": "MIT",
